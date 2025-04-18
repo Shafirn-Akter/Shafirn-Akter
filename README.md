@@ -7,7 +7,7 @@
 ## 📈 Current GitHub Status
 
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Shafirn-Akter&theme=transparent&hide_border=true" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Shafirn-Akter&theme=whatsapp-light&hide_border=true" />
 </p>
 
 ---
