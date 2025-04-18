@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Shafrin Akter
 
-![Shafrin](./image/shafring.png)
+![Shafrin](./image/Shafring.png)
 
 ---
 
